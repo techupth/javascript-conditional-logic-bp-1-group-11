@@ -17,3 +17,4 @@ addFavoriteBook("Black Beauty");
 addFavoriteBook("Monstrous Beauty");
 
 console.log(favoriteBooks);
+

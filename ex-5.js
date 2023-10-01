@@ -27,3 +27,4 @@ console.log(`Lisa grade is ${lisaGrade}`);
 console.log(`Jane grade is ${janeGrade}`);
 console.log(`JJ grade is ${jjGrade}`);
 console.log(`Alex grade is ${alexGrade}`);
+
